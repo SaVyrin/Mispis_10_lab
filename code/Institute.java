@@ -1,3 +1,5 @@
+package code;
+
 public class Institute {
 
 	public String name;

@@ -1,3 +1,5 @@
+package code;
+
 public abstract class Employee {
 
 	public int ssNo;
